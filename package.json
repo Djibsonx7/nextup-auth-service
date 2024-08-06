@@ -1,0 +1,31 @@
+{
+  "name": "nextup-backend",
+  "version": "1.0.0",
+  "description": "Backend for Nextup application",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djibsonx7/nextup-backend.git"
+  },
+  "keywords": [
+    "express",
+    "backend",
+    "nextup"
+  ],
+  "author": "DiakhateCorp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Djibsonx7/nextup-backend/issues"
+  },
+  "homepage": "https://github.com/Djibsonx7/nextup-backend#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
