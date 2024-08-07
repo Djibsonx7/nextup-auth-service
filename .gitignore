@@ -1,0 +1,14 @@
+# Fichiers de dépendances
+node_modules/
+package-lock.json
+yarn.lock
+
+# Fichiers d'environnement
+.env
+
+# Dossier de build
+dist/
+
+# Autres fichiers et dossiers à ignorer
+.DS_Store
+*.log
