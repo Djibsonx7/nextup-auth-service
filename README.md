@@ -1,1 +1,1 @@
-# nextup-queue-service
+# nextup-auth-service
