@@ -1,1 +1,1 @@
-# nextup-backend
+# nextup-queue-service
